@@ -16,4 +16,4 @@ AnveVoice lets website visitors ask questions, book demos, fill forms, and take 
 ## Links
 
 - Website: https://anvevoice.app
-- Embed docs: https://app.anvevoice.app
+- Embed docs: https://app.anvevoice.app/docs
