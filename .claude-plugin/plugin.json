@@ -1,0 +1,10 @@
+{
+  "name": "anvevoice",
+  "displayName": "AnveVoice — Voice AI for Websites",
+  "author": "Adarsh Kant",
+  "description": "Add a real-time AI voice agent to any website in minutes. Visitors can ask questions, book demos, fill forms and take actions through natural voice conversation. Supports 50+ languages.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": ["voice", "ai", "assistant", "widget", "multilingual"],
+  "homepage": "https://anvevoice.app"
+}
